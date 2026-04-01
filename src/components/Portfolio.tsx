@@ -6,7 +6,7 @@ import PhotoStack from "./PhotoStack";
 export default function Portfolio() {
   const projects = [
     {
-      title: "Corporate Identity",
+      title: "Web Design",
       category: "Branding",
       images: [
         "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/f31f4a2d8f5783f1f3e20812115951256e203ab6/WEB%201.jpg",
@@ -17,19 +17,39 @@ export default function Portfolio() {
       ],
     },
     {
-      title: "Event Banners",
+      title: "Corporate Identity",
       category: "Large Format",
-      image: "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&q=80&w=600",
+      images: [
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/41d590d4c3a41b6e61d1cf9ddfa70f2d80fd0c5f/FLEX%201.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/41d590d4c3a41b6e61d1cf9ddfa70f2d80fd0c5f/FLEX%202.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/41d590d4c3a41b6e61d1cf9ddfa70f2d80fd0c5f/FLEX%203.jpg"
+      ],
     },
     {
-      title: "Premium Business Cards",
+      title: "Corporate Identity",
       category: "Printing",
-      image: "https://images.unsplash.com/photo-1589118949245-7d38baf380d6?auto=format&fit=crop&q=80&w=600",
+      images: [
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/d896107abc9799beec8ddbff94050bc3c9d0422d/card%201.jfif",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/d896107abc9799beec8ddbff94050bc3c9d0422d/card3.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/d896107abc9799beec8ddbff94050bc3c9d0422d/card5.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/d896107abc9799beec8ddbff94050bc3c9d0422d/card6.jpg"
+      ],
     },
     {
-      title: "Custom Packaging",
+      title: "Corporate Identity",
       category: "Branding",
-      image: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=600",
+      images: [
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002687557.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002687567.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002687569.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002689993.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002760321.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002760240.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002738100.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002737612.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002737609.jpg",
+        "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002758724.jpg"
+      ],
     },
     {
       title: "Marketing Flyers",
