@@ -54,7 +54,7 @@ export default function Portfolio() {
     {
       title: "Marketing Flyers",
       category: "Digital Print",
-      image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=600",
+      image: "https://raw.githubusercontent.com/YomiFocus/THE-MODLUS-CREATIVE-GLOBAL-LIMITED/489716017bd257187aeef694c3aa24c16f9d21f0/1002673470.jpg",
     },
     {
       title: "Corporate Merchandise",
